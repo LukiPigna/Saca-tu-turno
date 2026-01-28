@@ -1,0 +1,5 @@
+{
+  "name": "Padel Indoor Club Booking",
+  "description": "A web application to book paddle tennis courts at the Padel Indoor Club. Users can select a date and time, enter their details, and confirm their reservation.",
+  "requestFramePermissions": []
+}
